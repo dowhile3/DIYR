@@ -3,16 +3,44 @@ body {
 }
 
 header h1 {
-  font-family: 'Belgrano', serif;
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 2.8em;
+  margin-top: 1.2em;
+  margin-bottom: 0;
   text-align: center;
-}
-article p {
-  font-family: 'Belgrano', serif;
-  font-size: 1em;
-  margin: 0 auto 0 auto;
+  color: #fff;
 }
 
 #intro_wrapper {
-  background-color: #333;
-
+  margin: 0 1em;
 }
+
+article p {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-top: 0;
+  font-size: 1.45em;
+  color: #fff;
+
+  
+  text-align: center;
+}
+
+#button a {
+  margin-top: 2em;
+  
+  text-decoration: none;
+  color: #fff;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 3em;
+ 
+  
+  
+
+  
+}
+
+#button {
+  width: 6em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3.9em;
